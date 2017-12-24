@@ -1,2 +1,3 @@
 # Hello-World
 Toe in the water of programing...
+I took a basit programing class in college years ago and now I am trying to learn what is going on so I can understand the new world of crypto and smart contracts. Learned a lot already but I can tell from all of this that I have a lot more to go. 
